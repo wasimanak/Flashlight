@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="exit_alert">Press Back again to exit</string>
+</resources>
